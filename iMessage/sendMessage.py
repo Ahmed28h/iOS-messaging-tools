@@ -19,7 +19,7 @@ import sys
 import subprocess
 import time
 
-receiver = "TARGET" # phone number or email
+receiver = "TARGET" # "lizza.factora23@icloud.com"
 
 exit = False
 
